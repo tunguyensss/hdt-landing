@@ -1,0 +1,74 @@
+{
+  "brand": "HDT Solutions",
+  "menu": {
+    "home": "Home",
+    "services": "What we do",
+    "portfolio": "Our works",
+    "team": "Our team",
+    "contact": "Contact"
+  },
+  "homepage": {
+    "hero": {
+      "title": "We are a Digital Agency",
+      "subtitle": "Engineering Your Vision into Reality",
+      "serve": "serve",
+      "typed": "Software Development|Mobile App Development|Web Development Service|Business Solution"
+    }
+  },
+  "services": {
+    "title": "What We Do",
+    "desc": "Save time managing advertising & Content for your business.",
+    "software_develop": {
+      "title": "Software Development",
+      "desc": "We specialize in creating tailored software solutions that meet the unique needs of your business, ensuring scalability, security, and performance."
+    },
+    "mobile_app_dev": {
+      "title": "Mobile App Development",
+      "desc": "From ideation to launch, we design and develop mobile apps for iOS and Android platforms that offer seamless user experiences and drive business growth."
+    },
+    "web_dev_service": {
+      "title": "Web Development Services",
+      "desc": "We create intuitive and visually appealing designs for apps and websites, focusing on a user-centered approach to drive engagement and satisfaction."
+    },
+    "cloud_soluttion": {
+      "title": "Cloud Solutions",
+      "desc": "Leverage our expertise in cloud technologies to build scalable, reliable, and secure cloud-based applications and infrastructure that meet your business needs."
+    },
+    "qa": {
+      "title": "Quality Assurance & Testing",
+      "desc": "Ensure the highest quality of your software with our comprehensive QA and testing services, including manual testing, automated testing, and performance testing."
+    },
+    "ui_ux": {
+      "title": "UI/UX Design",
+      "desc": "We create intuitive and visually appealing designs for apps and websites, focusing on a user-centered approach to drive engagement and satisfaction."
+    }
+  },
+  "portfolio": {
+    "title": "Our work",
+    "desc": "We create engaging experiences that are innovating and beautiful."
+  },
+  "team": {
+    "title": "Our Team",
+    "hbkh": {
+      "name": "Huynh Bui Khai Huy"
+    },
+    "ctd": {
+      "name": "Che Thanh Dai"
+    },
+    "tnv": {
+      "name": "Nguyen Van Tu"
+    }
+  },
+  "contact_us": {
+    "title": "Contact Us",
+    "desc": "Have questions about service, please contact us.",
+    "form": {
+      "name": "Your Name",
+      "email": "Your Email",
+      "subject": "Subject",
+      "message": "Message",
+      "send_message": "Send Message"
+    }
+  },
+  "footer": {}
+}

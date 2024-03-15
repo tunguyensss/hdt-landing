@@ -1,0 +1,72 @@
+{
+  "menu": {
+    "home": "Trang Chủ",
+    "services": "Dịch vụ",
+    "portfolio": "Dự án",
+    "team": "Đội ngũ",
+    "contact": "Liên hệ"
+  },
+  "homepage": {
+    "hero": {
+      "title": "Chúng Tôi Là Một Digital Agency",
+      "subtitle": "Biến Tầm Nhìn Của Bạn Thành Hiện Thực",
+      "serve": "",
+      "typed": "Phát Triển Phần Mềm|Phát Triển Ứng Dụng Di Động|Dịch Vụ Phát Triển Web|Giải Pháp Doanh Nghiệp"
+    }
+  },
+  "services": {
+    "title": "",
+    "desc": "",
+    "software_develop": {
+      "title": "Phát Triển Phần Mềm",
+      "desc": "Chúng tôi chuyên tạo ra các giải pháp phần mềm được thiết kế riêng để đáp ứng nhu cầu độc đáo của doanh nghiệp bạn, đảm bảo khả năng mở rộng, bảo mật và hiệu suất."
+    },
+    "mobile_app_dev": {
+      "title": "Phát Triển Ứng Dụng Di Động",
+      "desc": "Từ ý tưởng đến khi ra mắt, chúng tôi thiết kế và phát triển ứng dụng di động cho các nền tảng iOS và Android, mang lại trải nghiệm người dùng mượt mà và thúc đẩy sự phát triển kinh doanh."
+    },
+    "web_dev_service": {
+      "title": "Dịch Vụ Phát Triển Web",
+      "desc": "Đội ngũ của chúng tôi thiết kế và phát triển các trang web và ứng dụng web đáp ứng nhanh, an toàn và tương thích, nâng cao sự hiện diện trực tuyến và thu hút khán giả của bạn."
+    },
+    "cloud_soluttion": {
+      "title": "Giải Pháp Đám Mây",
+      "desc": "Tận dụng chuyên môn của chúng tôi trong công nghệ đám mây để xây dựng các ứng dụng và cơ sở hạ tầng dựa trên đám mây có khả năng mở rộng, đáng tin cậy và an toàn, phù hợp với nhu cầu kinh doanh của bạn."
+    },
+    "qa": {
+      "title": "Đảm Bảo Chất Lượng & Kiểm Thử",
+      "desc": "Đảm bảo chất lượng phần mềm cao nhất với các dịch vụ QA và kiểm thử toàn diện của chúng tôi, bao gồm kiểm thử thủ công, kiểm thử tự động và kiểm thử hiệu suất."
+    },
+    "ui_ux": {
+      "title": "Thiết Kế UI/UX",
+      "desc": "Chúng tôi tạo ra các thiết kế trực quan và hấp dẫn về mặt hình ảnh cho ứng dụng và website, tập trung vào phương pháp đặt người dùng vào trung tâm để thúc đẩy sự tham gia và hài lòng."
+    }
+  },
+  "portfolio": {
+    "title": "Dự án",
+    "desc": "Chúng tôi tạo ra các trải nghiệm hấp dẫn, đổi mới và đẹp mắt."
+  },
+  "team": {
+    "title": "Đội Ngũ Của Chúng Tôi",
+    "hbkh": {
+      "name": "Huỳnh Bùi Khải Huy"
+    },
+    "ctd": {
+      "name": "Chế Thành Đại"
+    },
+    "tnv": {
+      "name": "Nguyễn Văn Tú"
+    }
+  },
+  "contact_us": {
+    "title": "Liên Hệ Chúng Tôi",
+    "desc": "Nếu bạn có câu hỏi về dịch vụ, vui lòng liên hệ với chúng tôi.",
+    "form": {
+      "name": "Tên Của Bạn",
+      "email": "Email Của Bạn",
+      "subject": "Chủ Đề",
+      "message": "Tin Nhắn",
+      "send_message": "Gửi Tin Nhắn"
+    }
+  }
+}
