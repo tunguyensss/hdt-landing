@@ -1,3 +1,4 @@
+"use client";
 interface NavMobileProps {}
 export default function NavMobile(props: NavMobileProps) {
   return (
